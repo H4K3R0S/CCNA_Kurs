@@ -220,9 +220,10 @@ MAC adrese se menjaju na svakom hop-u, IP adrese ostaju iste.
 ## 🧮 FCS i CRC
 
 - **FCS (Frame Check Sequence)**
-- Koristi CRC algoritam
+- Koristi CRC algoritam da napravi hash paketa
 - Proverava:
   - Integritet paketa
+
 
 Greške mogu nastati zbog:
 - Loših kablova
